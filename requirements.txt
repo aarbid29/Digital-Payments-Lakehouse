@@ -1,0 +1,12 @@
+pyspark==3.5.1
+pandas<3
+numpy
+pyarrow
+faker
+scikit-learn
+duckdb
+streamlit
+plotly
+fastapi
+uvicorn
+pytest

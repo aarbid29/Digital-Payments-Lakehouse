@@ -1,0 +1,11 @@
+.venv/
+data/
+warehouse/
+__pycache__/
+*.pyc
+spark-warehouse/
+metastore_db/
+derby.log
+.DS_Store
+airflow_home/
+.pytest_cache/
